@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a university student.
+I'm currently learning mahjong🀄.
+I'm not good at using computers. I want to improve my skills.
+
 
 <!--
 **sasa0715/sasa0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
