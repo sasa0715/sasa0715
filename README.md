@@ -1,7 +1,6 @@
 ## Hi there 👋
 I'm a university student.
-I'm currently learning mahjong🀄.
-I'm not good at using computers. I want to improve my skills.
+I want to improve my skills.
 
 
 <!--
